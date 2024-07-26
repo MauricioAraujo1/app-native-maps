@@ -41,6 +41,9 @@ Antes de começar, você vai precisar criar uma conta no console da google cloud
 PlacesAPI
 DirectionsAPI
 ```
+<p align="center">
+  <a target="blank"><img src="https://github.com/user-attachments/assets/f5f529f3-ebfc-4649-8dc6-69e507268631" width="900" alt="Dash" /></a>
+</p>
 
 ## 🚀 Como executar o projeto
 
