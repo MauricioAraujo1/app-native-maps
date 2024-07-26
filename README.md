@@ -33,7 +33,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ ] [Android Studio]
 - [ ] [Expo]
 
+## 🚀 Antes de executar o projeto
 
+h3>Pré-requisitos</h3>
+Antes de começar, você vai precisar criar uma conta no console da google cloud, e ativar as seguintes API's:
+```
+PlacesAPI
+DirectionsAPI
+```
 
 ## 🚀 Como executar o projeto
 
