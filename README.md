@@ -35,7 +35,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Antes de executar o projeto
 
-h3>Pré-requisitos</h3>
+## Pré-requisitos
+
 Antes de começar, você vai precisar criar uma conta no console da google cloud, e ativar as seguintes API's:
 ```
 PlacesAPI
