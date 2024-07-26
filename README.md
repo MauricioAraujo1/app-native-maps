@@ -45,6 +45,11 @@ DirectionsAPI
   <a target="blank"><img src="https://github.com/user-attachments/assets/2e7bdb40-02fe-4240-8ba3-334406d1c224" width="900" alt="Dash" /></a>
 </p>
 
+<span class="pl-c"><span class="pl-c">#</span> Após ativar-las, crie sua Secret Key nas credenciais, copie ela e cole no arquivo .Env do código no vscode, segue o exemplo:</span>
+<p align="center">
+  <a target="blank"><img src="https://github.com/user-attachments/assets/2e7bdb40-02fe-4240-8ba3-334406d1c224" width="900" alt="Dash" /></a>
+</p>
+
 ## 🚀 Como executar o projeto
 
 <h3>Pré-requisitos</h3>
