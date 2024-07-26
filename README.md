@@ -45,7 +45,7 @@ DirectionsAPI
   <a target="blank"><img src="https://github.com/user-attachments/assets/2e7bdb40-02fe-4240-8ba3-334406d1c224" width="900" alt="Dash" /></a>
 </p>
 
-<span class="pl-c"><span class="pl-c">#</span> Após ativar-las, crie sua Secret Key nas credenciais, copie ela e cole no arquivo .Env do código no vscode, segue o exemplo:</span>
+Após ativar-las, crie sua Secret Key nas credenciais, copie ela e cole no arquivo .env do código no vscode, segue o exemplo:
 <p align="center">
   <a target="blank"><img src="https://github.com/user-attachments/assets/52898dad-ca52-4d77-9c89-05f046627ccb" width="900" alt="Dash" /></a>
 </p>
