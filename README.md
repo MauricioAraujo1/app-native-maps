@@ -42,7 +42,7 @@ PlacesAPI
 DirectionsAPI
 ```
 <p align="center">
-  <a target="blank"><img src="https://github.com/user-attachments/assets/f5f529f3-ebfc-4649-8dc6-69e507268631" width="900" alt="Dash" /></a>
+  <a target="blank"><img src="https://github.com/user-attachments/assets/2e7bdb40-02fe-4240-8ba3-334406d1c224" width="900" alt="Dash" /></a>
 </p>
 
 ## 🚀 Como executar o projeto
